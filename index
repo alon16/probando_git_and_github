@@ -11,5 +11,6 @@
 		document.getElementById("parra").innerHTML="parrafo cambiado";
 		console.log("solo pra la consola");
 </script>
+<h1>asfsfgfdg</h1>
 </body>
 </html>
