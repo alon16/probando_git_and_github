@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>paginis</title>
+	
+</head>
+<body>
+	<p id="parra">pruebaaaaaaaaaaaaaaaaa</p>
+	<script> 
+		window.alert("zf");
+		document.getElementById("parra").innerHTML="parrafo cambiado";
+		console.log("solo pra la consola");
+</script>
+</body>
+</html>
